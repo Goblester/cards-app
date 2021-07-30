@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cards-app/static/css/main.069efa63.chunk.css",
+    "main.js": "/cards-app/static/js/main.f50d9a11.chunk.js",
+    "main.js.map": "/cards-app/static/js/main.f50d9a11.chunk.js.map",
+    "runtime-main.js": "/cards-app/static/js/runtime-main.15c54034.js",
+    "runtime-main.js.map": "/cards-app/static/js/runtime-main.15c54034.js.map",
+    "static/js/2.e4616dd8.chunk.js": "/cards-app/static/js/2.e4616dd8.chunk.js",
+    "static/js/2.e4616dd8.chunk.js.map": "/cards-app/static/js/2.e4616dd8.chunk.js.map",
+    "static/js/3.d93ccabd.chunk.js": "/cards-app/static/js/3.d93ccabd.chunk.js",
+    "static/js/3.d93ccabd.chunk.js.map": "/cards-app/static/js/3.d93ccabd.chunk.js.map",
+    "index.html": "/cards-app/index.html",
+    "static/css/main.069efa63.chunk.css.map": "/cards-app/static/css/main.069efa63.chunk.css.map",
+    "static/js/2.e4616dd8.chunk.js.LICENSE.txt": "/cards-app/static/js/2.e4616dd8.chunk.js.LICENSE.txt",
+    "static/media/logo.70fefd3f.png": "/cards-app/static/media/logo.70fefd3f.png",
+    "static/media/preloader.576a7a69.svg": "/cards-app/static/media/preloader.576a7a69.svg",
+    "static/media/profileLogo.b223d406.png": "/cards-app/static/media/profileLogo.b223d406.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15c54034.js",
+    "static/js/2.e4616dd8.chunk.js",
+    "static/css/main.069efa63.chunk.css",
+    "static/js/main.f50d9a11.chunk.js"
+  ]
+}
